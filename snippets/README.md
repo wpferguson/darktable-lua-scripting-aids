@@ -1,4 +1,4 @@
-# code snippets
+# snippets
 
 Pieces of code that can be copied into a script
 
