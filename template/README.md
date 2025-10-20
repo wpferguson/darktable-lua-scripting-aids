@@ -1,36 +1,36 @@
 # script template
 
-This template is for...
+This template provides a way to lay out a script with places for script elements.
 
 ## Replaceable fields
 
 The following fields are replaceable and can be filled using search and replace or automation
 
-### <name>
+### `<name>`
 
 The name of the script, typically the filename without the .lua extension
 
-### <purpose>
+### `<purpose>`
 
 A quick description of what the script is supposed to do
 
-### <author_data>
+### `<author_data>`
 
 The script author's name and email address
 
-### <current_year>
+### `<current_year>`
 
 The current 4 digit year
 
-### <description>
+### `<description>`
 
 The long description of what the script does and how it does it
 
-### <additional software>
+### `<additional software>`
 
 Any additional software required for the script to run
 
-### <usage>
+### `<usage>`
 
 The steps required to actually run the script
 
